@@ -1,0 +1,14 @@
+#style-one{
+    background-color: black;
+    color: white;
+}
+
+#style-two{
+    background-color: rgb(234, 255, 0);
+}
+
+#style-one,
+#style-two{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
